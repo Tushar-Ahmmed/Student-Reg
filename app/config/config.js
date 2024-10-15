@@ -1,5 +1,5 @@
 export const PORT = 5000
-export const DATABASE = "mongodb+srv://tushar:123@e-commerce.nwu96.mongodb.net/E-Commerce?retryWrites=true&w=majority&appName=StudentRegistration"
+export const DATABASE = "mongodb+srv://tushar:123@e-commerce.nwu96.mongodb.net/StudentRegistration"
 export const WEB_CACHE = false
 export const URL_ENCODE = true
 export const MAX_JSON_SIZE = "10MB"
