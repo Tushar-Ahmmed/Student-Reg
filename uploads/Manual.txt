@@ -1,0 +1,3 @@
+http://oraapps.ebsserver.com:8010
+
+http://ebsprod.akijventure.com:8000
